@@ -1,2 +1,2 @@
 # Ludum34
-Suck dicks.
+Kopa Suck dicks.
